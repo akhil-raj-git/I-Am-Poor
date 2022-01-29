@@ -1,6 +1,6 @@
 # I-Am-Poor
 
-Alternate app to I Am Rich to reinforce lessons learned from the previous project
+Alternate app to I Am Rich to reinforce lessons learned and tools used from the previous project.
 
 ## Screenshots
 
